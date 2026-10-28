@@ -1,0 +1,13 @@
+# 构建产物
+build/
+*.obj
+*.o
+
+# 调试日志
+sip_debug.log
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.user
+CMakeLists.txt.user*
